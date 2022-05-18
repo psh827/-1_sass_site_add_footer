@@ -52,5 +52,7 @@ $(function(){
             thisElem.css("display", "block").animate({height: 300}, "slow", function(){});
         }
     })
+
+    
     
 });
